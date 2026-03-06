@@ -1,0 +1,120 @@
+KALITVI SOFTWARE LICENSE AGREEMENT
+STROFA FREE EDITION
+
+Copyright (c) 2023-2026 KALITVI Consulting and Development LTD.
+All Rights Reserved.
+
+IMPORTANT - READ CAREFULLY: This License Agreement ("Agreement") is a legal
+agreement between you ("User") and KALITVI Consulting and Development LTD
+("KALITVI") for the Strofa Free Edition software product, which includes
+computer software, associated media, and online or electronic documentation
+("Software").
+
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE
+BOUND BY THE TERMS OF THIS AGREEMENT.
+
+1. GRANT OF LICENSE
+
+   KALITVI grants you a limited, non-exclusive, non-transferable,
+   revocable license to:
+
+   (a) Download and install the Software on any number of devices for
+       personal, non-commercial use only.
+   (b) Use the Software for local Apigee API proxy development, testing,
+       and emulation purposes for personal or educational use.
+   (c) For commercial use, a Strofa Pro license is required. Contact
+       KALITVI at support@kalitvi.com or visit https://strofa.io.
+
+2. RESTRICTIONS
+
+   You may NOT:
+
+   (a) Modify, adapt, translate, reverse engineer, decompile, disassemble,
+       or create derivative works based on the Software, except to the
+       extent that such activity is expressly permitted by applicable law
+       notwithstanding this limitation.
+   (b) Remove, alter, or obscure any proprietary notices, labels, or marks
+       on the Software.
+   (c) Distribute, sublicense, lease, rent, sell, or otherwise transfer
+       the Software or any rights therein to any third party.
+   (d) Use the Software to develop a competing product or service.
+   (e) Use any component, module, or code from the Software in other
+       software products.
+   (f) Redistribute the Software in modified form or as part of another
+       software distribution.
+   (g) Use the Software for any unlawful purpose.
+
+3. INTELLECTUAL PROPERTY
+
+   The Software is protected by copyright laws and international treaty
+   provisions. KALITVI retains all right, title, and interest in and to
+   the Software, including all intellectual property rights therein.
+   This Agreement does not grant you any rights to trademarks or service
+   marks of KALITVI.
+
+4. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+   IN NO EVENT SHALL KALITVI BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+   ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+   OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL KALITVI BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+   SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+   LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+   DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+   THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+   (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+   OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+6. THIRD-PARTY NOTICES
+
+   Strofa is an independent third-party product. It is NOT affiliated
+   with, endorsed by, sponsored by, or officially connected with
+   Google LLC, Google Cloud, or the Apigee team in any way.
+
+   Google Cloud, Google, and Apigee are trademarks of Google LLC.
+   All other trademarks are the property of their respective owners.
+
+   The Software uses the publicly available Apigee Emulator Docker image
+   provided by Google. Use of the Apigee Emulator is subject to Google's
+   own terms and conditions.
+
+7. OPEN SOURCE COMPONENTS
+
+   The Software incorporates open source components, each subject to its
+   own license terms. A list of open source components and their licenses
+   is available in the Software's About section. Nothing in this Agreement
+   limits your rights under, or grants you rights that supersede, the
+   terms of any applicable open source license.
+
+8. TERMINATION
+
+   This Agreement is effective until terminated. KALITVI may terminate
+   this Agreement at any time if you fail to comply with any term of
+   this Agreement. Upon termination, you must destroy all copies of the
+   Software in your possession.
+
+9. GOVERNING LAW
+
+   This Agreement shall be governed by and construed in accordance with
+   the laws of the State of Israel, without regard to its conflict of
+   law provisions.
+
+10. ENTIRE AGREEMENT
+
+    This Agreement constitutes the entire agreement between you and
+    KALITVI with respect to the Software and supersedes all prior or
+    contemporaneous understandings regarding such subject matter.
+
+11. CONTACT
+
+    KALITVI Consulting and Development LTD
+    Website: https://kalitvi.com
+    Product: https://strofa.io
+    Email:   support@kalitvi.com
