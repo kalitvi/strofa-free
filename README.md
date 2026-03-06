@@ -32,7 +32,7 @@
 
 ## What is Strofa Free Edition?
 
-Strofa Free Edition is a **fully offline desktop IDE** for building, testing, and debugging Apigee API proxies locally using the official [Apigee Emulator](https://cloud.google.com/apigee/docs/emulator). No cloud account required.
+Strofa Free Edition is a **fully offline desktop IDE** for building, testing, and debugging Apigee API proxies locally using the official [Apigee Emulator](https://docs.cloud.google.com/apigee/docs/api-platform/local-development/overview). No cloud account required.
 
 Built with love for the Apigee community by [KALITVI Software](https://kalitvi.com).
 
