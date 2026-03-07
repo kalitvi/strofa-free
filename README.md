@@ -32,7 +32,9 @@
 
 ## What is Strofa Free Edition?
 
-Strofa Free Edition is a **fully offline desktop IDE** for building, testing, and debugging Apigee API proxies locally using the official [Apigee Emulator](https://docs.cloud.google.com/apigee/docs/api-platform/local-development/overview). No cloud account required.
+Strofa Free Edition is a **free, fully offline showcase** of the Strofa platform — focused on **local Apigee API proxy development** using the official [Apigee Emulator](https://docs.cloud.google.com/apigee/docs/api-platform/local-development/overview). It includes the **complete Visual Proxy Canvas** with all 47 policy types, a local Docker-based emulator, and a developer toolbox. No cloud account required.
+
+This is a taste of what Strofa can do. For the full platform — including AI assistance, cloud deployment, real-time debugging, Hybrid Manager, DevOps automation, and much more — see [Strofa Pro](https://strofa.io).
 
 Built with love for the Apigee community by [KALITVI Software](https://kalitvi.com).
 
@@ -42,16 +44,15 @@ Built with love for the Apigee community by [KALITVI Software](https://kalitvi.c
 
 ## Features
 
-- **Visual Proxy Canvas** - Drag-and-drop editor with 45+ Apigee policy types. No XML editing required.
-- **Docker-based Emulator** - Full container lifecycle management for the Apigee Emulator.
-- **Local Deploy & Test** - Deploy proxy bundles to the emulator and test them instantly.
-- **API Playground** - Built-in HTTP client for testing deployed proxies with custom headers, auth, and body.
-- **Test Resources** - Manage Products, Developers, Apps, and KVMs for the emulator.
-- **Developer Toolbox** - JWT Decoder, HMAC Generator, Hash Calculator, Base64, URL Encoder, Regex Tester, JSON/XML Formatter, UUID Generator, and more.
-- **Proxy Templates** - Pre-built templates including Reverse Proxy, Mock API, Rate Limiting, and AI Gateway.
-- **Import / Export** - Import and export proxy bundles as standard ZIP files.
-- **Dark / Light Theme** - Full theme support with system preference detection.
-- **Keyboard Shortcuts** - Extensive shortcut support with cross-platform keys.
+- **Visual Proxy Canvas** — Full drag-and-drop proxy editor with all 47 Apigee policy types, visual condition builder, script editor with Apigee auto-complete, fault rules, and resource management. No XML editing required.
+- **Docker-based Emulator** — Complete container lifecycle management for the Apigee Emulator.
+- **Local Deploy & Test** — Deploy proxy bundles to the emulator and test them instantly.
+- **API Playground** — Built-in HTTP client for testing deployed proxies with custom headers, auth, and body.
+- **Test Resources** — Manage Products, Developers, Apps, and KVMs for the emulator.
+- **Developer Toolbox** — 16 standalone tools: JWT Decoder, HMAC Generator, Hash Calculator, Base64, URL Encoder, Regex Tester, JSON/XML Formatter, UUID Generator, HTTP Signature, Case Converter, Color Converter, Query String Parser, Text Diff, Timestamp Converter, and more.
+- **Import / Export** — Import and export proxy bundles as standard Apigee ZIP files.
+- **Dark / Light Theme** — Full theme support with system preference detection.
+- **Keyboard Shortcuts** — Extensive shortcut support with cross-platform keys.
 
 ---
 
@@ -127,33 +128,83 @@ chmod +x Strofa-Free-x.x.x.AppImage
 
 ## Free vs Pro
 
-| Feature | Free Edition | Strofa Pro |
+The Free Edition is a **local emulator showcase** with the full canvas. Strofa Pro is the **complete Apigee platform** with 180+ features.
+
+### Local Development
+
+| Feature | Free | Pro |
 |---|:---:|:---:|
-| Visual Proxy Canvas | Yes | Yes |
-| 45+ Policy Types | Yes | Yes |
+| Visual Proxy Canvas (all 47 policies) | Yes | Yes |
+| Visual Condition Builder | Yes | Yes |
+| Script Editor with Apigee Auto-complete | Yes | Yes |
+| Fault Rules & Resource Management | Yes | Yes |
 | Local Emulator (Docker) | Yes | Yes |
-| API Playground | Yes | Yes |
-| Developer Toolbox | Yes | Yes |
+| Local Deploy & Test | Yes | Yes |
+| API Playground (local) | Yes | Yes |
 | Test Resources (Products, Devs, Apps, KVMs) | Yes | Yes |
-| Proxy Templates | Yes | Yes |
-| Import / Export ZIP | Yes | Yes |
+| Import / Export ZIP Bundles | Yes | Yes |
+| Developer Toolbox (16 tools) | Yes | Yes |
 | Dark / Light Theme | Yes | Yes |
 | Keyboard Shortcuts | Yes | Yes |
-| **Strofai AI Assistant** | - | Yes |
-| **Cloud Apigee Connection** | - | Yes |
-| **Deploy to Cloud Environments** | - | Yes |
-| **Real-time Debug Sessions** | - | Yes |
-| **DevOps Pipeline** | - | Yes |
-| **Hybrid Manager** | - | Yes |
-| **Cassandra Doctor** | - | Yes |
-| **Git Integration** | - | Yes |
-| **Analytics Dashboard** | - | Yes |
-| **Shared Flows** | - | Yes |
-| **Stub IDP (OAuth/OIDC)** | - | Yes |
-| **Multi-Organization Support** | - | Yes |
-| **Extensions System** | - | Yes |
 
-> Interested in the full version? Visit [strofa.io](https://strofa.io) or contact us at [support@kalitvi.com](mailto:support@kalitvi.com).
+### AI Assistant
+
+| Feature | Free | Pro |
+|---|:---:|:---:|
+| **Strofai AI Assistant** (126 tools, 27 categories) | - | Yes |
+| Dual AI Provider (Gemini 3 + Claude Opus 4.6) | - | Yes |
+| AI-Powered Proxy Building & Editing | - | Yes |
+| 180+ Industry Use-Case Blueprints (Healthcare, Finance, etc.) | - | Yes |
+| RAG Knowledge System (7 collections) | - | Yes |
+| Task Decomposition & Planning Mode | - | Yes |
+| AI-Assisted Debug Chat | - | Yes |
+| Voice Input / Output (TTS/STT) | - | Yes |
+
+### Cloud & Deployment
+
+| Feature | Free | Pro |
+|---|:---:|:---:|
+| Cloud Apigee X Connection | - | Yes |
+| Deploy to Cloud Environments | - | Yes |
+| API Proxies CRUD (Cloud) | - | Yes |
+| Shared Flows Management | - | Yes |
+| Revision Comparison & Diff | - | Yes |
+| Multi-Organization Support | - | Yes |
+| Real-time Debug Sessions | - | Yes |
+| Analytics Dashboard | - | Yes |
+| Products, Developers & Apps Management (Cloud) | - | Yes |
+| Environment Management | - | Yes |
+| Key Value Maps (Cloud) | - | Yes |
+
+### DevOps & Infrastructure
+
+| Feature | Free | Pro |
+|---|:---:|:---:|
+| DevOps Promotion Pipeline (4-step wizard) | - | Yes |
+| Hybrid Manager (full K8s console) | - | Yes |
+| 10-Step Hybrid Installation Wizard | - | Yes |
+| Cluster Dashboard & Network Topology | - | Yes |
+| Cassandra Doctor (CQL console, health, schema) | - | Yes |
+| Capacity Analysis & Troubleshooting Playbooks | - | Yes |
+| Certificate & Helm Chart Management | - | Yes |
+| Disaster Recovery | - | Yes |
+| Pre-flight Checks & Diagnostics | - | Yes |
+
+### Additional Pro Features
+
+| Feature | Free | Pro |
+|---|:---:|:---:|
+| Proxy Templates (Reverse Proxy, Mock API, AI Gateway, etc.) | - | Yes |
+| Sandbox Mock Servers (OpenAPI import, request logging) | - | Yes |
+| Stub IDP (OAuth2/OIDC Identity Provider) | - | Yes |
+| Git Integration (GitHub push/pull, backup) | - | Yes |
+| Extensions System (.kpkg packages) | - | Yes |
+| API Playground with Collections & Variables | - | Yes |
+| Inspector (bundle inspection) | - | Yes |
+| Apigee License Management | - | Yes |
+| Command Center Dashboard | - | Yes |
+
+> Interested in the full platform? Visit [strofa.io](https://strofa.io) or contact us at [info@kalitvi.com](mailto:info@kalitvi.com).
 
 ---
 
@@ -210,7 +261,7 @@ See [LICENSE.txt](LICENSE.txt) for the full license agreement.
 | **Company** | KALITVI Consulting and Development LTD |
 | **Product Website** | [strofa.io](https://strofa.io) |
 | **Company Website** | [kalitvi.com](https://kalitvi.com) |
-| **Email** | [support@kalitvi.com](mailto:support@kalitvi.com) |
+| **Email** | [info@kalitvi.com](mailto:info@kalitvi.com) |
 | **Bug Reports** | [GitHub Issues](../../issues) |
 
 ---
