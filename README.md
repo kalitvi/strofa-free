@@ -91,15 +91,17 @@ Download the installer for your platform from the [Releases](../../releases) pag
 
 ### Windows
 
-| File | Architecture |
+| File | Type |
 |---|---|
-| `Strofa-Free-x.x.x-Setup.exe` | x64 |
+| `Strofa-Free-x.x.x-x64-Setup.exe` | Installer (recommended) |
+| `Strofa-Free-x.x.x-x64-Portable.exe` | Portable (no install needed) |
 
-1. Run the installer and follow the setup wizard.
-2. If Windows SmartScreen shows a warning:
-   - Click **"More info"**
-   - Click **"Run anyway"**
-3. Launch Strofa from the Start Menu or Desktop shortcut.
+**Installer:** Run the setup wizard, then launch from the Start Menu or Desktop shortcut.
+**Portable:** Just download and run — no installation required.
+
+If Windows SmartScreen shows a warning:
+- Click **"More info"**
+- Click **"Run anyway"**
 
 ### Linux
 
